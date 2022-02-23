@@ -1,6 +1,0 @@
-use_frameworks!
-target 'XCodeConfig_Tests' do
-  pod 'XCodeConfig', :path => '../'
-  
-  
-end

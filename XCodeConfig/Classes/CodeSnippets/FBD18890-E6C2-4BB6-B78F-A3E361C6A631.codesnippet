@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>xk_swift_viewmodel_struct_data</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>struct PrivateData {
+        
+    }
+    var privateData = PrivateData()
+    struct Input {
+        
+    }
+    var input = Input()
+    struct Output {
+        
+    }
+    var output = Output()</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FBD18890-E6C2-4BB6-B78F-A3E361C6A631</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>viewModel的结构体数据</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>XK_SWIFT_VIEWMODEL_STRUCT_DATA</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

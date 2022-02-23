@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>xk_convert_closure_to_block</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>let &lt;#block#&gt; = &lt;#closure#&gt; as @convention(block) () -&gt; Void
+    let &lt;#blockObj#&gt; = unsafeBitCast(&lt;#block#&gt;, to: AnyObject.self)</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F820E36E-A5FC-49D8-99F8-AD535237F7CA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>closure转block</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>XK_CONVERT_CLOSURE_TO_BLOCK</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
